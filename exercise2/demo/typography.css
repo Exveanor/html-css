@@ -1,7 +1,9 @@
 html {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 16px;
-    line-height: 1.5;
+    font: 16px/1.5 Georgia, 'Times New Roman', Times, serif;
+}
+
+body, table, input, button {
+    font: inherit;
 }
 
 h1, h2, h3 {
