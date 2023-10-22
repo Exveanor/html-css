@@ -1,24 +1,3 @@
-* {
-    padding: 0;
+body {
     margin: 0;
-}
-
-* {
-    box-sizing: inherit;
-}
-
-html {
-    box-sizing: border-box;
-}
-
-body, table, input, textarea {
-    font: inherit
-}
-
-html {
-    font: 14px/1.5 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-p, ul, ol {
-    padding-bottom: 1.5em;
 }
