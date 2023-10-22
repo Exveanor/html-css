@@ -17,3 +17,20 @@ p {
     border: 2px solid green;
     padding: 2em;
 }
+
+.site-header {
+    flex-basis: 100%;
+}
+
+.site-content {
+    flex-grow: 2;
+}
+
+.site-sidebar {
+    flex-grow: 1;
+}
+
+.site-footer {
+    margin-top: auto;
+    flex-basis: 100%;
+}
