@@ -31,3 +31,7 @@ p {
     flex-grow: 1;
 }
 
+.site-footer {
+    margin-top: auto;
+    flex-basis: 100%;
+}
