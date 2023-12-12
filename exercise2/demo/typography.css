@@ -1,5 +1,9 @@
 html {
-    font: 16px/1.5 Georgia, 'Times New Roman', Times, serif;
+    font: 12px/1.4 Georgia, 'Times New Roman', Times, serif;
+}
+
+@media (min-width: 600px) {
+    html { font-size: 14px;}
 }
 
 body, table, input, button {
