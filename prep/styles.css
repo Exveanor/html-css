@@ -52,6 +52,10 @@ img {
     color: black;
 }
 
+.section-content article .entry-content {
+    padding: 1em;
+}
+
 .section-content article .button {
     color: #fff;
 }
