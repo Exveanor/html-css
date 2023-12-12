@@ -3,3 +3,28 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    padding: 2em;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    max-width: 100em;
+    margin: 0 auto;
+}
+
+.section-content {
+    display: flex;
+    gap: 1em;
+
+}
+
+.section-content article {
+    flex: 1 1 30%;
+}
