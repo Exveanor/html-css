@@ -53,9 +53,19 @@ img {
 }
 
 .section-content article .entry-content {
-    padding: 1em;
+    padding: 1.5em;
 }
 
+.section-content article .entry-content p {
+    margin: 1em 0 0.5em 0;
+}
 .section-content article .button {
     color: #fff;
+    display: block;
+    text-decoration: none;
+    background: #327DC4;
+    border: 1px solid #323CC4;
+    outline: 1px solid #fff;
+    padding: 0.5em 1em;
+    border-radius: 2em;
 }
