@@ -57,11 +57,11 @@ img {
 }
 
 .section-content article .entry-content p {
-    margin: 1em 0 0.5em 0;
+    margin: 1em 0 1em 0;
 }
 .section-content article .button {
     color: #fff;
-    display: block;
+    display: inline-block;
     text-decoration: none;
     background: #327DC4;
     border: 1px solid #323CC4;
